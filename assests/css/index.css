@@ -1,0 +1,94 @@
+
+#nav-container{
+    height: 50px;
+}
+#section-1{
+    margin-top: 70px;
+}
+#img-1{
+    height: 300px;
+    width: 300px;
+}
+.title-color{
+    color: blue;
+    
+}
+#intro-heading{
+    margin-top: 10px;
+    font-size: 60px;
+    font-weight: bolder;
+}
+#intro-description{
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+#section-2{
+    margin-top: 50px;
+}
+#container-2{
+    text-align:center;
+    background-color: thistle;
+    
+}
+#container-about{
+margin-top: 60px;
+
+
+}
+#col-img{
+    text-align: center;
+}
+#col-paragraph{
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: large;
+}
+#about{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 70px;
+    color: blue;
+}
+#about:hover{
+    text-decoration: none;
+}
+
+#about-img{
+    height: 300px;
+    width: 300px;   
+    border-radius: 15%;
+
+}
+#container-3{
+    margin-top: 80px;
+}
+#container-3 #skills-heading{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+#container-3 #skills-heading:hover{
+    text-decoration: none;
+
+}
+
+#works #works-heading{
+    margin-top: 50px;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+#container-works{
+    margin-top: 50px;
+}
+#contact{
+    margin-top: 80px;
+}
+.section-title{
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 30px;
+    color: blue;
+}
